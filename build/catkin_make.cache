@@ -1,0 +1,2 @@
+test:topic
+-DCATKIN_DEVEL_PREFIX=/home/youngsun/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/youngsun/catkin_ws/install -G Unix Makefiles
